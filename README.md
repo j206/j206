@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello.  
+Projects that have my current attention are pinned.  
+Thank you for visiting. ✌️
 
 <!--
 **j206/j206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
