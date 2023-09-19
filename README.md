@@ -1,5 +1,4 @@
 Hello.  
-Projects that have my current attention are pinned.  
 Thank you for visiting. ✌️
 
 <!--
